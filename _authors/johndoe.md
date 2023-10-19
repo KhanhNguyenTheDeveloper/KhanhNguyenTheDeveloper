@@ -1,9 +1,9 @@
 ---
-name: John Doe
+name: Khanh Nguyen
 username: johndoe
-bio: "Hi I a John, a Web Developer and Designer."
+bio: "Hi my name is Khanh."
 site: http://johndoe.com
-avatar: johndoe.png
+avatar: myImage.jpg
 email: mail@johndoe.com
 social:
     - title: "github"
@@ -29,3 +29,7 @@ social:
     - title: "flickr"
       url: "https://flickr.com/johndoe"
 ---
+
+<!-- File Nay Chua Thong Tin Author -->
+
+<!-- Duoc mo ta tai dia chi http://localhost:4000/blog/authors/johndoe#/
