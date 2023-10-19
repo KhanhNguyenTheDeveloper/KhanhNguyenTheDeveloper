@@ -24,12 +24,12 @@ Under _authors folder create a author details file (username.md) with his/her us
 Then add this frontmatter to describe the author in **johndoe.md**.
 ```yml
 ---
-name: John Doe # Name of the Author
+name: Khanh Nguyen # Name of the Author
 username: johndoe # Username of the Author
 bio: "Hi I a John, a Web Developer and Designer." # Author Bio
 site: http://johndoe.com  # Author Website URL
 avatar: johndoe.png  # Profile Image (img path will be /assets/img/authors/johndoe.png)
-email: mail@johndoe.com  # Author Email address
+email: mail@johndoe.com  # Author Email address!11#e
 social:  # Author Social profile links
     - title: "github"
       url: "https://github.com/johndoe"
@@ -62,7 +62,7 @@ Next, copy the same frontmatter in _data/authors.yml (under individual author us
 ```yml
 # Author 1
 johndoe:
-   name: John Doe
+   name: Khanh Nguyen
    username: johndoe
    site: http://johndoe.com
    avatar: johndoe.png
